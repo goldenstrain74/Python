@@ -20,3 +20,7 @@ Temelden başlayarak makine öğrenmesi ve yapay zekaya giriş.
 - 12 - Ürün Sepeti
 - 13 - Liste, Demet, Sözlük
 - 14 - Rehber
+- 15 - Fonksiyonlar
+- 16 - Fonksiyon Oluşturma
+- 17 - Lambda Fonksiyonu
+- 18 - Modüller
