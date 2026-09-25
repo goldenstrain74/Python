@@ -29,3 +29,6 @@ Temelden başlayarak makine öğrenmesi ve yapay zekaya giriş.
 - 16 - Fonksiyon Oluşturma
 - 17 - Lambda Fonksiyonu
 - 18 - Modüller
+- 19 - NumPy Kütüphanesi
+- 20 - NumPy Metodları
+- 21 - Pandas Kütüphanesi
