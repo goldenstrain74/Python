@@ -4,6 +4,11 @@
 
 Temelden başlayarak makine öğrenmesi ve yapay zekaya giriş.
 
+## İletişim
+-LinkedIn: https://www.linkedin.com/in/ahmet-esat-altunsoy-6074a6335/
+-Medium: https://medium.com/@ahmetesataltunsoy
+
+
 ### İçerik
 
 - 01 - Hello World
