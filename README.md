@@ -32,3 +32,18 @@ Temelden başlayarak makine öğrenmesi ve yapay zekaya giriş.
 - 19 - NumPy Kütüphanesi
 - 20 - NumPy Metodları
 - 21 - Pandas Kütüphanesi
+- 22 - Pandas Veri Yapıları
+- 23 - Matplotlip Kütüphanesi
+- 24 - Matplotlip Özellikleri
+- 25 - Grafik Çizdirme
+- 26 - Seaborn Kütüphanesi
+- 27 - SNS Displot Grafiği
+- 28 - SNS Pairplot Grafiği
+- 29 - SNS Boxplot Grafiği
+- 30 - -------------------
+- 31 - -------------------
+- 32 - OpenCv Kütüphanesi
+- 33 - Yüz Tanıma 1.0
+- 34 - -------------------
+- 35 - El Algılama
+- 36 - Nesne Takip (Renk)
