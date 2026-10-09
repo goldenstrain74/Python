@@ -45,11 +45,20 @@ print("ilk beş satır: \n",tablo.head())
 #son beş satırı yazdırma
 print("son beş satır: \n",tablo.tail())
 
-#dosya çağırma
-import os
-print("Çalışma dizini:", os.getcwd())
-print(os.listdir(),"\n\n\n")
+#Veri seti sınırlarını görmek için shape fonksiyonu kullanılır
+
+print("Veri setinin boyutu: ",tablo.shape)
+
+
+# CSV dosyasını okuma
 
 dosya = pd.read_csv("22-ogrenciler.csv")
 
+print("CSV Dosyası:")
 print(dosya)
+
+print("\nYaş Ortalaması:")
+print(dosya["Yas"].mean())
+
+print("\nSütunlar:")
+print(dosya.columns)
