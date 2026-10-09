@@ -39,6 +39,12 @@ print("c stünundaki değerlerin en büyüğü: ",tablo["c"].max())
 print("c stünundaki değerlerin ortalaması: ",tablo["c"].mean())
 print("\n")
 
+#ilk beş satırı yazdırma
+print("ilk beş satır: \n",tablo.head())
+
+#son beş satırı yazdırma
+print("son beş satır: \n",tablo.tail())
+
 #dosya çağırma
 import os
 print("Çalışma dizini:", os.getcwd())
